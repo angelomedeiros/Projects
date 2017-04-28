@@ -1,1 +1,1 @@
-"Test - My first repository" 
+"Test - My first repository!" 
